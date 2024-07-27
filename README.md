@@ -23,7 +23,7 @@ A simple, stylish digital clock built using HTML, CSS, and JavaScript. This proj
 
 1. **Clone the Repository:** 
    ```bash
-   git clone https://github.com/yourusername/digital-clock.git
+   git clone https://github.com/asadnaqvi14/digital-clock.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -35,9 +35,6 @@ A simple, stylish digital clock built using HTML, CSS, and JavaScript. This proj
 
 4. **Customize:** Modify the `styles.css` file to change the appearance of the clock or adjust the `script.js` file to alter its functionality.
 
-## Demo
-
-You can view a live demo of the digital clock [here](link-to-live-demo).
 
 ## Contributing
 
